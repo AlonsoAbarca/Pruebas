@@ -1,0 +1,229 @@
+"pais","exp_vid","mortalidad","pobrate"
+"Afghanistan",52.8,12.7,2.38
+"Albania",79,7.1,0.28
+"Algeria",77.5,4.4,1.52
+"American Samoa",74.8,5.9,-1.4
+"Andorra",83,7.7,-0.06
+"Angola",61.3,8.5,3.43
+"Anguilla",81.8,4.8,1.86
+"Antigua and Barbuda",77.3,5.8,1.18
+"Argentina",77.8,7.4,0.86
+"Armenia",75.6,9.5,-0.3
+"Aruba",77.5,8.7,1.19
+"Australia",82.7,6.9,1.4
+"Austria",81.9,9.8,0.35
+"Azerbaijan",73.6,7,0.77
+"Bahamas, The",73.3,7.4,0.75
+"Bahrain",79.4,2.8,2.08
+"Bangladesh",74.2,5.5,0.98
+"Barbados",76,8.8,0.23
+"Belarus",73.8,13.1,-0.27
+"Belgium",81.4,9.8,0.63
+"Belize",75.3,4.1,1.72
+"Benin",61.4,8.4,3.4
+"Bermuda",81.7,9.1,0.39
+"Bhutan",72.1,6.3,1.02
+"Bolivia",70.4,6.3,1.44
+"Bosnia and Herzegovina",77.5,10.2,-0.19
+"Botswana",64.8,9.2,1.48
+"Brazil",74.7,6.9,0.67
+"British Virgin Islands",79.2,5.4,2.14
+"Brunei",77.9,3.8,1.51
+"Bulgaria",75,14.6,-0.65
+"Burkina Faso",62.7,8.2,2.66
+"Burma",69.3,7.2,0.85
+"Burundi",66.7,6.2,2.85
+"Cabo Verde",73.2,5.9,1.28
+"Cambodia",65.9,7.3,1.4
+"Cameroon",62.3,8.1,2.78
+"Canada",83.4,7.9,0.81
+"Cayman Islands",81.6,6.1,1.9
+"Central African Republic",54.2,12.3,2.09
+"Chad",58.3,10,3.18
+"Chile",79.4,6.5,0.71
+"China",76.1,8.2,0.32
+"Colombia",76.6,5.6,0.93
+"Comoros",65.7,6.9,1.47
+"Congo, Democratic Republic of the",61,8.4,3.18
+"Congo, Republic of the",61.3,8.7,2.26
+"Cook Islands",76.6,9,-2.59
+"Costa Rica",79.2,4.9,1.08
+"Cote d'Ivoire",61.3,7.9,2.26
+"Croatia",76.7,12.8,-0.5
+"Cuba",79.2,9.1,-0.25
+"Curacao",79,8.7,0.35
+"Cyprus",79.3,7,1.15
+"Czechia",79.3,10.7,0.06
+"Denmark",81.2,9.5,0.48
+"Djibouti",64.7,7.3,2.07
+"Dominica",77.7,8,0.13
+"Dominican Republic",72,6.3,0.95
+"Ecuador",77.5,5.2,1.2
+"Egypt",73.7,4.4,2.28
+"El Salvador",74.8,5.9,0.83
+"Equatorial Guinea",65.7,7.3,2.35
+"Eritrea",66.2,6.9,0.93
+"Estonia",77.4,12.9,-0.65
+"Eswatini",58.6,10.1,0.77
+"Ethiopia",67.5,5.9,2.56
+"Faroe Islands",80.8,8.8,0.6
+"Fiji",73.7,6.3,0.5
+"Finland",81.3,10.3,0.3
+"France",82.2,9.6,0.35
+"French Polynesia",77.9,5.5,0.79
+"Gabon",69,5.9,2.5
+"Gambia, The",65.8,6.7,1.87
+"Gaza Strip",74.9,3,2.13
+"Georgia",77,11,0.05
+"Germany",81.1,12.1,-0.19
+"Ghana",68.2,6.6,2.15
+"Gibraltar",80,8.6,0.2
+"Greece",81.1,12,-0.31
+"Greenland",73.4,9,-0.08
+"Grenada",75.2,8.3,0.38
+"Guam",77,6,0.2
+"Guatemala",72.4,4.9,1.68
+"Guernsey",82.8,9.2,0.26
+"Guinea",63.2,8.4,2.76
+"Guinea-Bissau",62.8,7.9,2.51
+"Guyana",69.5,7.5,0.72
+"Haiti",65.3,7.4,1.26
+"Honduras",74.6,4.7,1.27
+"Hong Kong",83.2,7.9,0.24
+"Hungary",76.7,12.9,-0.28
+"Iceland",83.3,6.6,1.02
+"India",69.7,7.3,1.1
+"Indonesia",73.7,6.6,0.79
+"Iran",74.5,5.3,1.1
+"Iraq",72.6,3.9,2.16
+"Ireland",81.2,6.8,1.04
+"Isle of Man",81.6,10.4,0.59
+"Israel",83,5.3,1.46
+"Italy",82.5,10.7,0.11
+"Jamaica",75.2,7.5,-0.07
+"Japan",86,10.2,-0.27
+"Jersey",82.2,7.9,0.72
+"Jordan",75.5,3.4,1.4
+"Kazakhstan",72,8.2,0.89
+"Kenya",69,5.2,2.2
+"Kiribati",67.5,6.9,1.09
+"Korea, North",71.6,9.4,0.51
+"Korea, South",82.6,6.8,0.39
+"Kosovo",72.7,7,0.66
+"Kuwait",78.6,2.3,1.27
+"Kyrgyzstan",71.8,6.3,0.96
+"Laos",65.7,7.2,1.44
+"Latvia",75.4,14.6,-1.12
+"Lebanon",78.3,5.4,-6.68
+"Lesotho",53,15.4,0.16
+"Liberia",64.7,7,2.71
+"Libya",76.7,3.5,1.94
+"Liechtenstein",82.2,7.8,0.75
+"Lithuania",75.5,15,-1.13
+"Luxembourg",82.6,7.3,1.8
+"Macau",84.6,4.9,0.64
+"Macedonia",76.3,9.6,0.15
+"Madagascar",67.3,6.2,2.39
+"Malawi",63.2,7.2,3.3
+"Malaysia",75.9,5.3,1.29
+"Maldives",76.4,4.1,-0.08
+"Mali",61.6,9,2.95
+"Malta",82.8,8.3,0.87
+"Marshall Islands",74.1,4.3,1.43
+"Mauritania",64.5,7.5,2.09
+"Mauritius",76.5,7.3,0.54
+"Mexico",76.7,5.4,1.04
+"Micronesia, Federated States of",73.9,4.3,-0.6
+"Moldova",71.9,12.6,-1.08
+"Monaco",89.3,10.8,0.37
+"Mongolia",70.8,6.3,0.99
+"Montenegro",77.3,10.4,-0.37
+"Montserrat",75.3,6,0.58
+"Morocco",73.3,6.6,0.96
+"Mozambique",55.9,11,2.62
+"Namibia",65.3,7.3,1.86
+"Nauru",68.4,6,0.46
+"Nepal",71.8,5.7,0.98
+"Netherlands",81.7,9.2,0.37
+"New Caledonia",78.4,5.9,1.25
+"New Zealand",82.1,6.9,1.44
+"Nicaragua",74.2,5.2,0.96
+"Niger",59.3,10.2,3.66
+"Nigeria",60.4,9.1,2.53
+"Northern Mariana Islands",76.1,5.3,-0.55
+"Norway",82.1,8.1,0.85
+"Oman",76.3,3.3,1.96
+"Pakistan",69.2,6.2,2.07
+"Palau",74.1,8.3,0.39
+"Panama",79.2,5.1,1.2
+"Papua New Guinea",67.8,6.7,1.6
+"Paraguay",77.9,4.9,1.16
+"Peru",74.7,6.2,0.92
+"Philippines",70,6,1.52
+"Poland",78.3,10.6,-0.19
+"Portugal",81.1,10.8,-0.25
+"Puerto Rico",81.3,9.5,-1.59
+"Qatar",79.4,1.6,1.55
+"Romania",76,12,-0.37
+"Russia",71.9,13.4,-0.16
+"Rwanda",65.1,6.1,2
+"Saint Barthelemy",80.2,8.7,-0.25
+"Saint Helena, Ascension, and Tristan da Cunha",80,8.3,0.13
+"Saint Kitts and Nevis",76.6,7.3,0.67
+"Saint Lucia",78.5,8.1,0.29
+"Saint Martin",80.2,4.6,0.4
+"Saint Pierre and Miquelon",81,10.9,-1.15
+"Saint Vincent and the Grenadines",76.2,7.6,-0.22
+"Samoa",74.7,5.4,0.61
+"San Marino",83.5,9,0.65
+"Sao Tome and Principe",66.3,6.3,1.58
+"Saudi Arabia",76.2,3.4,1.6
+"Senegal",63.2,7.6,2.31
+"Serbia",76.3,13.5,-0.47
+"Seychelles",75.6,7.1,0.69
+"Sierra Leone",59.8,9.8,2.43
+"Singapore",86,3.6,1.73
+"Sint Maarten",78.8,5.8,1.34
+"Slovakia",77.8,10.1,-0.05
+"Slovenia",81.4,10.3,0.01
+"Solomon Islands",76.2,3.8,1.84
+"Somalia",54,12.4,2.21
+"South Africa",64.8,9.3,0.97
+"South Sudan",55.5,11.4,2.7
+"Spain",82,9.3,0.67
+"Sri Lanka",77.5,6.5,0.67
+"Sudan",66.5,6.5,2.69
+"Suriname",73.3,6.2,0.95
+"Sweden",82.4,9.4,0.79
+"Switzerland",82.8,8.5,0.66
+"Syria",73.7,4.5,4.25
+"Taiwan",80.6,7.9,0.11
+"Tajikistan",69,5.8,1.52
+"Tanzania",63.9,7.1,2.71
+"Thailand",75.6,8.3,0.25
+"Timor-Leste",69.3,5.7,2.27
+"Togo",66.6,6.5,2.56
+"Tonga",77,4.9,-0.16
+"Trinidad and Tobago",73.9,9.1,-0.3
+"Tunisia",76.3,6.4,0.85
+"Turkey",75.7,6.1,0.45
+"Turkmenistan",71.3,6.1,1.06
+"Turks and Caicos Islands",80.3,3.4,2
+"Tuvalu",67.9,8.2,0.87
+"Uganda",68.2,5.3,3.34
+"Ukraine",72.9,14,-0.1
+"United Arab Emirates",79,2,1.49
+"United Kingdom",81.1,9.5,0.49
+"United States",80.3,8.3,0.72
+"Uruguay",77.9,9.3,0.27
+"Uzbekistan",74.8,5.4,0.88
+"Vanuatu",74.6,4,1.73
+"Venezuela",71,7.5,-0.18
+"Vietnam",74.4,6,0.84
+"Virgin Islands",79.8,8.5,-0.37
+"Wallis and Futuna",80.2,5.7,0.28
+"West Bank",75.9,3.4,1.77
+"Western Sahara",64.5,7.7,2.54
+"Yemen",66.9,5.6,2.04
+"Zambia",53.6,11.6,2.89
+"Zimbabwe",62.3,9.3,1.87
